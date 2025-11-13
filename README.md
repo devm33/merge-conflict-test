@@ -1,1 +1,1 @@
-# should conflict
+# Updated merge-conflict-test (should conflict)
